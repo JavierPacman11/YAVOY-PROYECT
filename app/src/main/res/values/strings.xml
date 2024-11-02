@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ubicacion</string>
+
+    <string name="default_web_client_id">tu-client-id.apps.googleusercontent.com</string>
+</resources>
